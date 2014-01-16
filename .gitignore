@@ -2,6 +2,7 @@
 *.slo
 *.lo
 *.o
+*HelloWorld
 
 # Compiled Dynamic libraries
 *.so
